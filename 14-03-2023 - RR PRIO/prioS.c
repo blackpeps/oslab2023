@@ -1,4 +1,4 @@
-Priority Scheduling
+//Priority Scheduling
 
 #include<stdio.h>
 int main()
